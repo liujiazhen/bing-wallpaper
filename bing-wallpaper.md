@@ -1,7 +1,5 @@
 ## Bing Wallpaper
 
-2022-07-30 | [Tigresses of Telia Lake in Tadoba Andhari Tiger Reserve, India (© Ashish Parmar/Alamy)](https://cn.bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg "One rare 'streak'") 
-
 2022-07-28 | [Nabataean tomb in Mada'in Saleh (aka Hegra), Saudi Arabia (© Tuul & Bruno Morandi/Getty Images)](https://cn.bing.com/th?id=OHR.NabateanTomb_EN-US4126304993_UHD.jpg "") 
 
 2022-07-27 | [Mangrove forest in the Saloum Delta National Park, Senegal (© mariusz_prusaczyk/Getty Images)](https://cn.bing.com/th?id=OHR.MangroveDay_EN-US4051479273_UHD.jpg "") 
