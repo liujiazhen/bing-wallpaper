@@ -6,7 +6,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.*;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /**
@@ -36,11 +35,21 @@ public class FileUtils {
             String s = allLines.get(i).trim();
             int descEnd = s.indexOf("]");
             int urlStart = s.lastIndexOf("(") + 1;
+            int titleStart = s.indexOf("\"");
+            int titleEnd = s.lastIndexOf("\"");
 
             String date = s.substring(0, 10);
             String desc = s.substring(14, descEnd);
-            String url = s.substring(urlStart, s.length() - 1);
-            imgList.add(new Images(desc, date, url));
+            String url;
+            String title;
+            if (titleStart != -1 && titleEnd != titleStart) {
+                url = s.substring(urlStart, titleStart - 1);
+                title = s.substring(titleStart, titleEnd - 1);
+            } else {
+                url = s.substring(urlStart, s.length() - 1);
+                title = "";
+            }
+            imgList.add(new Images(desc, date, url, title));
         }
         return imgList;
     }
