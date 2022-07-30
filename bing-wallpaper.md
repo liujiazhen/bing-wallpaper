@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-07-31 | [Rainforest hike near Milford Sound/Piopiotahi in New Zealand (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg "The 'eighth wonder'?") 
+
 2022-07-28 | [Nabataean tomb in Mada'in Saleh (aka Hegra), Saudi Arabia (© Tuul & Bruno Morandi/Getty Images)](https://cn.bing.com/th?id=OHR.NabateanTomb_EN-US4126304993_UHD.jpg "") 
 
 2022-07-27 | [Mangrove forest in the Saloum Delta National Park, Senegal (© mariusz_prusaczyk/Getty Images)](https://cn.bing.com/th?id=OHR.MangroveDay_EN-US4051479273_UHD.jpg "") 
