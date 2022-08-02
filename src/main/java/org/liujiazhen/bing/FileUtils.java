@@ -44,7 +44,8 @@ public class FileUtils {
             String title;
             if (titleStart != -1 && titleEnd != titleStart) {
                 url = s.substring(urlStart, titleStart - 1);
-                title = s.substring(titleStart + 1, titleEnd - 1);
+                title = s.substring(titleStart, titleEnd + 1);
+                title = title.replace("\"", "");
             } else {
                 url = s.substring(urlStart, s.length() - 1);
                 title = "";

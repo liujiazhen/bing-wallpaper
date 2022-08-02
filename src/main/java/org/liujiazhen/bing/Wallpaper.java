@@ -45,7 +45,6 @@ public class Wallpaper {
         Stream<Images> imagesStream = imagesList.stream().filter(v -> finalEndDate.equals(v.getDate()));
         if (imagesStream.findAny().isPresent()) {
             logger.warning("当前日期信息已存在，originData：" + finalEndDate);
-            imagesStream.forEach(v -> logger.warning(v.toString()));
             return;
         }
 
