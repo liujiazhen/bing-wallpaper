@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-09-03 | [Seitan Limania Beach in Crete, Greece (© Georgios Tsichlis/Alamy)](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg "This magical beach is worth the hike") 
+
 2022-09-02 | [Wildlife crossing in Wierden, Netherlands (© Frans Lemmens/Alamy)](https://cn.bing.com/th?id=OHR.WildlifeCrossing_EN-US7691052130_UHD.jpg "Who uses this grassy bridge?") 
 
 2022-09-01 | [Blue linckia sea stars off New Ireland in Papua New Guinea (© Jurgen Freund/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg "How sweet to be a star, floating in the blue") 
