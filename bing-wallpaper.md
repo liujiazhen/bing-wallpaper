@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-10-05 | [Cosmic Cliffs in the Carina Nebula (© NASA, ESA, CSA, and STScI)](https://cn.bing.com/th?id=OHR.CosmicCliffs_EN-US8727581889_UHD.jpg "Golden cliffs of deep space") 
+
 2022-10-04 | [The Port House, designed by Zaha Hadid Architects, Antwerp, Belgium (© Dmitry Rukhlenko/Alamy)](https://cn.bing.com/th?id=OHR.Porthuis_EN-US8462686696_UHD.jpg "A future built on the past") 
 
 2022-10-03 | [Hot air balloons at the Albuquerque International Balloon Fiesta in Albuquerque, New Mexico (© gmeland/Shutterstock)](https://cn.bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg "The oldest way to fly") 
