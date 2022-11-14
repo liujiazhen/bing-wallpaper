@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-11-15 | [Ruins of the medieval castle of the Knights of St. John above the village of Chorio, Halki Island, Greece (© Massimo Ripani/eStock Photo)](https://cn.bing.com/th?id=OHR.SanGiovanni_EN-US1675492729_UHD.jpg "High above the Aegean Sea") 
+
 2022-11-13 | [Bald eagles near Haines, Alaska (© Marion Vollborn/Minden Pictures)](https://cn.bing.com/th?id=OHR.HainesEagle_EN-US1470582706_UHD.jpg "A convocation of eagles assembles") 
 
 2022-11-12 | [The Vietnam Women's Memorial in Washington, DC (© Cvandyke/Shutterstock)](https://cn.bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg "Honoring those who served") 
