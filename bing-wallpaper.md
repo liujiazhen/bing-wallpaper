@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-12-08 | [Mokoli'I Island in Kaneohe Bay, seen from Kualoa Regional Park, Oahu, Hawaii (© Riddhish Chakraborty/Getty Images)](https://cn.bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg "Where the battle began") 
+
 2022-12-07 | [A great egret in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg "Stretching out in the Everglades") 
 
 2022-12-06 | [Saint Nicholas Day in Verbier, Switzerland (© Denis Balibouse/Reuters)](https://cn.bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg "Santa slalom") 
