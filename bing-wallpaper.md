@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-12-18 | [Mountain goats at Glacier National Park in Montana (© Sumio Harada/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlacierGoats_EN-US5564943350_UHD.jpg "As curious about you as you are about them") 
+
 2022-12-17 | [Holiday lights in the Atlanta Botanical Garden, Georgia (© Natalia Kuzmina/Alamy)](https://cn.bing.com/th?id=OHR.AtlantaLights_EN-US5495340965_UHD.jpg "Let there be lights!") 
 
 2022-12-16 | [Borovets, Bulgaria (© Grigor Ivanov/Cavan Images)](https://cn.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg "Winter wonderland for your wallet") 
