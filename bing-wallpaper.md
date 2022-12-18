@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-12-19 | [South Beach in Miami Beach, Florida (© Claudia Uripos/eStock Photo)](https://cn.bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg "Gateway to Latin America") 
+
 2022-12-18 | [Mountain goats at Glacier National Park in Montana (© Sumio Harada/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlacierGoats_EN-US5564943350_UHD.jpg "As curious about you as you are about them") 
 
 2022-12-17 | [Holiday lights in the Atlanta Botanical Garden, Georgia (© Natalia Kuzmina/Alamy)](https://cn.bing.com/th?id=OHR.AtlantaLights_EN-US5495340965_UHD.jpg "Let there be lights!") 
