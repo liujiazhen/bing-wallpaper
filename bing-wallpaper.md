@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-02-28 | [Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg "A warm hug in the icy North") 
+
 2023-02-27 | [Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg "A walk in the trees") 
 
 2023-02-26 | [Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg "A huddle of hoodoos") 
