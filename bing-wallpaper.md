@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-04-19 | [Machu Picchu, Peru (© Dora Dalton/Getty Images)](https://cn.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg "A mountaintop marvel") 
+
 2023-04-18 | ['One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England (© Guy Bell/Alamy Live News)](https://cn.bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg "Poetry in suspense") 
 
 2023-04-17 | [Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)](https://cn.bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg "Go fly a kite!") 
