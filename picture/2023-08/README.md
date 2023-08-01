@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-08)
-![](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&w=1000 "Home of stone")Today: [Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&w=1000 "There's no denying the power of Denali")Today: [Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4 "Home of stone")2023-08-01 [download 4k](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4 "There's no denying the power of Denali")2023-08-02 [download 4k](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4 "Home of stone")2023-08-01 [download 4k](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg)|
