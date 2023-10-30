@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-10-31 | [Common raven sitting on a branch (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg "Here's to ravens, evermore") 
+
 2023-10-30 | [Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)](https://cn.bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg "Dare to dwell here after dark?") 
 
 2023-10-29 | [Windmills in Castilla-La Mancha, Spain (© Getty Images)](https://cn.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg "A Spanish knight's greatest foes") 
