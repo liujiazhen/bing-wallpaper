@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-11-24 | [Flint corn (© Cynthia Liang/Shutterstock)](https://cn.bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg "Happy Thanksgiving!") 
+
 2023-11-23 | [Grand Teton National Park, Wyoming (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg "The quiet beauty of Grand Teton") 
 
 2023-11-22 | [Gray seal pup, Norfolk, England (© Vince Burton/Minden Pictures)](https://cn.bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg "Welcome to the world, pup!") 
