@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-12-02 | [Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg "Celebrating the coolest place!") 
+
 2023-12-01 | [The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg "Happy Saint Andrew's Day") 
 
 2023-11-30 | [Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)](https://cn.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg "Rockefeller 'round the Christmas tree") 
