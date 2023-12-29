@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-12-30 | [Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg "Oud-West side story") 
+
 2023-12-29 | [Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg "Jumping off the endangered list") 
 
 2023-12-28 | [Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg "The land of ice and fire") 
