@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-04-26 | [Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.PenguinDirections_EN-US5469437415_UHD.jpg "It's ice to meet you all here!") 
+
 2024-04-25 | [White trilliums blooming in Ontario, Canada (© Jun Zhang/Getty Images)](https://cn.bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_UHD.jpg "Hey, how's it growing today?") 
 
 2024-04-24 | [Library of Trinity College Dublin, Ireland (© Lukas Bischoff/Getty Images)](https://cn.bing.com/th?id=OHR.TrinityDublin_EN-US5011442234_UHD.jpg "Fully booked!") 
