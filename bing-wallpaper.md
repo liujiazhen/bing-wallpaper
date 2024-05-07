@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-05-08 | [A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)](https://cn.bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg "Light as a feather") 
+
 2024-05-07 | [The Roaches, Peak District, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg "Where is this rocky ridge?") 
 
 2024-05-06 | [Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg "Happy Cinco de Mayo!") 
