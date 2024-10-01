@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2024-10)
-![](https://cn.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&w=1000 "Go with the floe")Today: [Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)](https://cn.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg&w=1000 "Dome sweet dome")Today: [Last light on Half Dome, Yosemite National Park, California (© Adam Burton/Alamy)](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4 "Go with the floe")2024-10-01 [download 4k](https://cn.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4 "Dome sweet dome")2024-10-02 [download 4k](https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4 "Go with the floe")2024-10-01 [download 4k](https://cn.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg)|
