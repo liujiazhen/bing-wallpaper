@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-01-06 | [Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)](https://cn.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg "Head-turner in the treetops") 
+
 2025-01-05 | [Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg "A borderline paradise") 
 
 2025-01-04 | [The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg "Ring in the fun") 
