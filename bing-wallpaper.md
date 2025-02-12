@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-02-13 | [Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)](https://cn.bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg "Darwin's blueprint") 
+
 2025-02-11 | [Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)](https://cn.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg "Under my umbrella") 
 
 2025-02-10 | [Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg "A point worth pondering") 
