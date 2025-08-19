@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-08-20 | [Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)](https://cn.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg "Powered by the sun") 
+
 2025-08-19 | [Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg "Stream a little dream") 
 
 2025-08-18 | [Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)](https://cn.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg "One tall way to spot the sea") 
