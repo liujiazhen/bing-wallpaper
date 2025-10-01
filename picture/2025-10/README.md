@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2025-10)
-![](https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg&w=1000 "Clinging to what matters")Today: [Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)](https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&w=1000 "Echoes from the Clark Range")Today: [Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4 "Clinging to what matters")2025-10-01 [download 4k](https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4 "Echoes from the Clark Range")2025-10-02 [download 4k](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4 "Clinging to what matters")2025-10-01 [download 4k](https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg)|
