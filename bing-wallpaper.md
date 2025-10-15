@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-10-16 | [Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)](https://cn.bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg "The spore the merrier") 
+
 2025-10-15 | [Village of Oia, Santorini, Greece (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg "Dreams painted in blue and white") 
 
 2025-10-14 | [House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)](https://cn.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg "Flames of the past") 
