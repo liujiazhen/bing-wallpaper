@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-12-19 | [Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg "Layers of time in Utah") 
+
 2025-12-18 | [Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)](https://cn.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg "Fur, frost, and feast") 
 
 2025-12-17 | [Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)](https://cn.bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg "Tiny hats, big spirits") 
