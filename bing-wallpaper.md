@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-01-29 | [Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)](https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg "Flow with it") 
+
 2026-01-28 | [Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)](https://cn.bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg "Feather forecast: pelicans ahead") 
 
 2026-01-27 | [Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)](https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg "Bavaria’s gem") 
