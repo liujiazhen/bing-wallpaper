@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-07-09 | [Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)](https://cn.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg "Echoes of a volcanic past") 
+
 2026-07-08 | [Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg "Color, craft, and canopy life") 
 
 2026-07-07 | [Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg "A city written in centuries") 
