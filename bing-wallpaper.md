@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-07-13 | [Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg "A wilder side of Maine") 
+
 2026-07-12 | [Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)](https://cn.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg "Where Brittany meets the tide") 
 
 2026-07-11 | [Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)](https://cn.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg "The land of moving shorelines") 
