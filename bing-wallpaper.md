@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-07-28 | [Tiffany Dome, Chicago Cultural Centre, Illinois, United States (© Felix Lipov/Shutterstock)](https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-CA9232454244_UHD.jpg "Chicago, look up!") 
+
 2026-07-27 | [Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg "Between land and sea, life begins") 
 
 2026-07-26 | [Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)](https://cn.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg "Into Galicia's hidden arches") 
