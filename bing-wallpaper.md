@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-07-29 | [A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg "A balance in motion") 
+
 2026-07-28 | [Tiffany Dome, Chicago Cultural Centre, Illinois, United States (© Felix Lipov/Shutterstock)](https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-CA9232454244_UHD.jpg "Chicago, look up!") 
 
 2026-07-27 | [Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg "Between land and sea, life begins") 
