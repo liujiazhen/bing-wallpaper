@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-07-30 | [A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)](https://cn.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg "A comeback with claws") 
+
 2026-07-29 | [A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg "A balance in motion") 
 
 2026-07-28 | [Tiffany Dome, Chicago Cultural Centre, Illinois, United States (© Felix Lipov/Shutterstock)](https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-CA9232454244_UHD.jpg "Chicago, look up!") 
