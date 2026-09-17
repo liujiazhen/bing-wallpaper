@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-09-18 | [Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg "A toast to the harvest") 
+
 2026-09-17 | [Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg "The Arctic's new explorers") 
 
 2026-09-16 | [Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)](https://cn.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg "A crossroad of cultures") 
