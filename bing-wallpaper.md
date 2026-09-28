@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-09-29 | [Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)](https://cn.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg "History with a view") 
+
 2026-09-28 | [Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg "Night garden of the deep") 
 
 2026-09-27 | [Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg "The stories written across the land") 
