@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-10-15 | [Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg "Spirals through time") 
+
 2026-10-14 | [Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)](https://cn.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg "A symphony in blue and green") 
 
 2026-10-13 | [White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg "A landscape of living history") 
