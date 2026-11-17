@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-11-18 | [Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg "Step into the great outdoors") 
+
 2026-11-16 | [Frozen azalea with red leaves (© avoferten/Shutterstock)](https://cn.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg "Frosty foliage") 
 
 2026-11-15 | [Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg "The only way is up") 
